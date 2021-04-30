@@ -1,0 +1,6 @@
+mask
+none
+no-mask
+glove
+no-glove
+
